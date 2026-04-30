@@ -493,8 +493,3 @@ Deployment 🚀
 * GitHub Actions → Automation
 
 ---
-
-# 🔥 ملحوظة مهمة
-
-> قوة الـ AI مش في الأداة...
-> لكن في الـ Workflow اللي بتستخدمه 🔥
